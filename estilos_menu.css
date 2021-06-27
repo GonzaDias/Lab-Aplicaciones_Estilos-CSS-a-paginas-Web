@@ -1,0 +1,19 @@
+body{
+	background:#89ff9a;
+	font-family: 'Poppins';
+}
+
+li{
+	list-style:none;
+	padding: 10px;
+}
+
+a{
+	text-decoration:none;
+	color: #392dff;
+	font-weight: bold;
+}
+
+a:hover{
+	background: #ff95a6;
+}

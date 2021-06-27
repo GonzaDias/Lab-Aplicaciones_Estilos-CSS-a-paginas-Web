@@ -1,0 +1,31 @@
+body{
+	font-family: 'Roboto Slab';
+}
+.encabezado{
+	background: url("fondo_gris.jpg");
+	width:100%;
+	height: 100vh;
+	text-align:center;
+	display:flex;
+	flex-wrap:wrap;
+	align-content:center;
+	justify-content:center;
+	
+}
+
+.contenido{
+	display:flex;
+	width:90%;
+	margin:auto;
+	margin-top:6%;
+}
+
+.descripcion h3{
+	text-align:center;
+}
+
+img{
+	width:600px;
+	height:400px;
+	padding:10px;
+}
